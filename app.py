@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import io
 
-BACKEND_URL = "https://university-cgs.onrender.com"
+BACKEND_URL = "https://university-cgs.onrender.com/convert"
 #BACKEND_URL = "http://127.0.0.1:8000"
 
 st.title("Преобразование координатных данных")
